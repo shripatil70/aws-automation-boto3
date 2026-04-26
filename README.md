@@ -106,7 +106,8 @@ http://<public-ip>
 ## 🖥️ Sample Output
 
 ```
-AWS Automation Successful!
+Output Image
+![Alt text](https://aws-resource-provisioning.s3.ap-south-1.amazonaws.com/Output.png)
 ```
 
 ---
