@@ -105,10 +105,13 @@ http://<public-ip>
 
 ## 🖥️ Sample Output
 
-```
-Output Image
-![Alt text](https://aws-resource-provisioning.s3.ap-south-1.amazonaws.com/Output.png)
-```
+## 🖥️ Sample Output  
+
+### 🔹 EC2 + Flask Output
+![Flask Output](https://aws-resource-provisioning.s3.ap-south-1.amazonaws.com/Output.png)
+
+### 🔹 AWS Resources Created
+![AWS Resources](https://aws-resource-provisioning.s3.ap-south-1.amazonaws.com/instances.png)
 
 ---
 
